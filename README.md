@@ -13,34 +13,19 @@ r,docker,flask,pytorch,html,css,mysql,git,github,react,visualstudio,vscode,angul
 ## Top Projects
 
 - [**raghadAmangour**](https://github.com/raghadAmangour/raghadAmangour): A portfolio showcasing my work in data science and generative AI.
-  - **Stars**: 0
-  - **Language**: Not specified
-  - **Forks**: 0
-  - **Issues**: 0
+
 
 - [**Protofloio**](https://github.com/raghadAmangour/Protofloio): A protofolio project demonstrating my skills and projects.
-  - **Stars**: 0
-  - **Language**: Jupyter Notebook
-  - **Forks**: 0
-  - **Issues**: 0
+
 
 - [**Power-BI-Project**](https://github.com/raghadAmangour/Power-BI-Project): A project focused on data visualization using Power BI.
-  - **Stars**: 0
-  - **Language**: Not specified
-  - **Forks**: 0
-  - **Issues**: 0
+ 
 
 - [**Accident-Severity-Prediction-**](https://github.com/raghadAmangour/Accident-Severity-Prediction-): A project aimed at predicting accident severity using machine learning.
-  - **Stars**: 0
-  - **Language**: Jupyter Notebook
-  - **Forks**: 0
-  - **Issues**: 0
+
 
 - [**Story_time_final**](https://github.com/raghadAmangour/Story_time_final): A creative storytelling project using JavaScript.
-  - **Stars**: 0
-  - **Language**: JavaScript
-  - **Forks**: 0
-  - **Issues**: 0
+
 
 ## GitHub Stats
 
