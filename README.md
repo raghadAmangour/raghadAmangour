@@ -31,8 +31,8 @@
 - SDAIA & FutureX AI and Data Science Certifications  
 - Microsoft AI & Data Analytics Courses  
 - STC Data Bootcamp  
-- IBM AI Fundamentals (in progress)  
-- Multiple projects in **machine learning and data analysis**
+- IBM AI Fundamentals   
+  
 
 ---
 
