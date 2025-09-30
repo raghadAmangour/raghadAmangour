@@ -30,8 +30,6 @@ r,docker,flask,pytorch,html,css,mysql,git,github,react,visualstudio,vscode,angul
 ## GitHub Stats
 
 🏆 **Public Repositories**: 16  
-👥 **Followers**: 0  
-🔗 **Following**: 0  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghadAmangour&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadAmangour&layout=compact&theme=radical)
 
