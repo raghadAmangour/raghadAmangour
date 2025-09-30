@@ -2,23 +2,28 @@
 
 🎓 I'm a Computer Science graduate with a strong focus on **Data Science**, **Artificial Intelligence**, and **Machine Learning**.  
 💡 Passionate about turning data into insights and building intelligent systems that solve real-world problems.  
-📚 Currently part of the **Artificial Intelligence Fundamentals Guided Learning with Capstone** program (King Saud University × IBM).  
+📚 Currently a **Generative AI Trainee at the Saudi Digital Academy (SDA)**.  
 
 ---
 
 ## 🚀 What I Do
-- 🔬 Work on **data analysis** and **machine learning** projects.
-- 🤖 Building AI-powered solutions, including **chatbots** (latest: a fun Haraj chatbot using LLMs).
-- 📊 Experienced in **data preprocessing, model training, and evaluation**.
+- 🔬 Worked on **data analysis**, **machine learning**, and **deep learning** projects.  
+- 🤖 Exploring **Generative AI** applications, including:  
+  - **Haraj Chatbot** – a fun project using LLMs to suggest cars humorously.  
+  - **Graduation Project** – built a chatbot powered by **Llama 2** to generate **medical reports for chest X-ray images**.  
+- 📊 Experienced in **data preprocessing, model training, and evaluation**.    
 - 🌐 Active learner in AI bootcamps, workshops, and training programs (SDA, SDAIA, FutureX, Microsoft, STC).
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL, Java 
-- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, PyTorch  
-- **Other Tools:** Git, Google Colab, Jupyter, Power BI  
-- **Interests:** Generative AI, NLP, Data Visualization
+- **Programming Languages:** Python, Java, JavaScript  
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, PyTorch, Hugging Face  
+- **Databases:** MongoDB, MySQL  
+- **Web Development:** HTML, CSS, Node.js  
+- **Data Analysis & Visualization:** EDA, Data Cleaning, Descriptive Statistics, Power BI, Tableau, Excel  
+- **Data Science & AI Concepts:** Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, LLMs, Prompt Engineering  
+- **Development Tools:** Jupyter Notebook (Anaconda), Visual Studio Code, Git/GitHub, Microsoft Office  
 
 ---
 
@@ -32,9 +37,27 @@
 ---
 
 ## 📂 Featured Projects
-- 🤖 **Haraj Chatbot** – A humorous chatbot powered by LLMs that suggests cars in a funny, engaging way.  
-- 🏥 **Medical Data Analysis** – Data preprocessing and predictive modeling from training at King Fahd Medical City.  
-- 📈 **Capstone AI Project (IBM × KSU)** – Applying AI fundamentals to solve a real-world problem.  
+- 🚦 **Accident Severity Prediction** | Jul 2025  
+  Used **TensorFlow** on 7.7M US accident records, achieving **79% accuracy** with feature engineering and Early Stopping.  
+
+- 📊 **Survey Data Mastery in Power BI** | Apr 2025  
+  Analyzed survey data through cleaning, transformation, visualization, and dashboard design for clarity and aesthetics.  
+
+- 🖼️ **Image Captioning Using Deep Learning Frameworks** | Imam University | May–Aug 2023  
+  Fine-tuned a deep learning model for **image captioning** (BLEU 0.5) using CV and NLP on 1.5K+ images.  
+
+- 🌐 **Web Application Project** | Imam University | May–Aug 2023  
+  Built a **full-stack web application** using HTML, CSS, JavaScript, Node.js, and MongoDB.  
+
+- ✈️ **Flight Price Prediction using Machine Learning** | Imam University | Dec 2022–Feb 2023  
+  Predicted flight prices using **KNN and Linear Regression**, achieving **97% accuracy** with KNN.  
+
+- 🎮 **AI Project: Adversarial Search** | Imam University | Jun–Nov 2022  
+  Compared **MIN-MAX** and **Alpha-Beta** algorithms in the XO game, analyzing performance and efficiency.  
+
+- 🎬 **Investigate a Relational Database** | Udacity | Sep 2022  
+  Analyzed a **movie rental database** using SQL; extracted insights and improved decision-making by **25%**.  
+ 
 
 ---
 
