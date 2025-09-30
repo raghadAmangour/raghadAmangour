@@ -1,77 +1,68 @@
-# Hi there 👋 I'm Raghad!
+## Hi there! 👋
 
-🎓 I'm a Computer Science graduate with a strong focus on **Data Science**, **Artificial Intelligence**, and **Machine Learning**.  
-💡 Passionate about turning data into insights and building intelligent systems that solve real-world problems.  
-📚 Currently a **Generative AI Trainee at the Saudi Digital Academy (SDA)**.  
+I'm **Raghad Almangour**, a recent computer science graduate passionate about **data science** and **artificial intelligence**. I love exploring new technologies and applying my skills to solve real-world problems.
 
----
+## About Me
 
-## 🚀 What I Do
-- 🔬 Worked on **data analysis**, **machine learning**, and **deep learning** projects.  
-- 🤖 Exploring **Generative AI** applications, including:  
-  - **Haraj Chatbot** – a fun project using LLMs to suggest cars humorously.  
-  - **Graduation Project** – built a chatbot powered by **Llama 2** to generate **medical reports for chest X-ray images**.  
-- 📊 Experienced in **data preprocessing, model training, and evaluation**.    
-- 🌐 Active learner in AI bootcamps, workshops, and training programs (SDA, SDAIA, FutureX, Microsoft, STC).
+Based in **Riyadh, Kingdom of Saudi Arabia**, I have a strong foundation in computer science and hands-on experience through various projects. I'm eager to contribute to innovative solutions in the tech industry.
 
----
+## Skills & Technologies
 
-## 🛠️ Tech Stack
-- **Programming Languages:** Python, Java, JavaScript  
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, PyTorch, Hugging Face  
-- **Databases:** MongoDB, MySQL  
-- **Web Development:** HTML, CSS, Node.js  
-- **Data Analysis & Visualization:** EDA, Data Cleaning, Descriptive Statistics, Power BI, Tableau, Excel  
-- **Data Science & AI Concepts:** Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, LLMs, Prompt Engineering  
-- **Development Tools:** Jupyter Notebook (Anaconda), Visual Studio Code, Git/GitHub, Microsoft Office  
+r,docker,flask,pytorch,html,css,mysql,git,github,react,visualstudio,vscode,angular
 
----
+## Top Projects
 
-## 🏆 Certifications & Achievements
-- SDAIA & FutureX AI and Data Science Certifications  
-- Microsoft AI & Data Analytics Courses  
-- STC Data Bootcamp  
-- IBM AI Fundamentals   
-  
+- [**raghadAmangour**](https://github.com/raghadAmangour/raghadAmangour): A portfolio showcasing my work in data science and generative AI.
+  - **Stars**: 0
+  - **Language**: Not specified
+  - **Forks**: 0
+  - **Issues**: 0
 
----
+- [**Protofloio**](https://github.com/raghadAmangour/Protofloio): A protofolio project demonstrating my skills and projects.
+  - **Stars**: 0
+  - **Language**: Jupyter Notebook
+  - **Forks**: 0
+  - **Issues**: 0
 
-## 📂 Featured Projects
-- 🚦 **Accident Severity Prediction** | Jul 2025  
-  Used **TensorFlow** on 7.7M US accident records, achieving **79% accuracy** with feature engineering and Early Stopping.  
+- [**Power-BI-Project**](https://github.com/raghadAmangour/Power-BI-Project): A project focused on data visualization using Power BI.
+  - **Stars**: 0
+  - **Language**: Not specified
+  - **Forks**: 0
+  - **Issues**: 0
 
-- 📊 **Survey Data Mastery in Power BI** | Apr 2025  
-  Analyzed survey data through cleaning, transformation, visualization, and dashboard design for clarity and aesthetics.  
+- [**Accident-Severity-Prediction-**](https://github.com/raghadAmangour/Accident-Severity-Prediction-): A project aimed at predicting accident severity using machine learning.
+  - **Stars**: 0
+  - **Language**: Jupyter Notebook
+  - **Forks**: 0
+  - **Issues**: 0
 
-- 🖼️ **Image Captioning Using Deep Learning Frameworks** | Imam University | May–Aug 2023  
-  Fine-tuned a deep learning model for **image captioning** (BLEU 0.5) using CV and NLP on 1.5K+ images.  
+- [**Story_time_final**](https://github.com/raghadAmangour/Story_time_final): A creative storytelling project using JavaScript.
+  - **Stars**: 0
+  - **Language**: JavaScript
+  - **Forks**: 0
+  - **Issues**: 0
 
-- 🌐 **Web Application Project** | Imam University | May–Aug 2023  
-  Built a **full-stack web application** using HTML, CSS, JavaScript, Node.js, and MongoDB.  
+## GitHub Stats
 
-- ✈️ **Flight Price Prediction using Machine Learning** | Imam University | Dec 2022–Feb 2023  
-  Predicted flight prices using **KNN and Linear Regression**, achieving **97% accuracy** with KNN.  
+🏆 **Public Repositories**: 16  
+👥 **Followers**: 0  
+🔗 **Following**: 0  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghadAmangour&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadAmangour&layout=compact&theme=radical)
 
-- 🎮 **AI Project: Adversarial Search** | Imam University | Jun–Nov 2022  
-  Compared **MIN-MAX** and **Alpha-Beta** algorithms in the XO game, analyzing performance and efficiency.  
+## Recent Activity
 
-- 🎬 **Investigate a Relational Database** | Udacity | Sep 2022  
-  Analyzed a **movie rental database** using SQL; extracted insights and improved decision-making by **25%**.  
- 
+Here are some of my latest GitHub activities:  
+- **Created** [Story_time](https://github.com/raghadAmangour/Story_time)  
+- **Updated** [Power-BI-Project](https://github.com/raghadAmangour/Power-BI-Project)  
+- **Created** [Protofloio](https://github.com/raghadAmangour/Protofloio)  
+- **Opened** issues on [Accident-Severity-Prediction-](https://github.com/raghadAmangour/Accident-Severity-Prediction-)  
+- **Pushed** changes to [story_time_final](https://github.com/raghadAmangour/Story_time_final)
 
----
+## Latest Blog Posts
 
-## 🌱 Currently Learning  
-- Advanced **LLM fine-tuning** and deployment.  
-- More about **cloud platforms** for AI model hosting.  
+Currently, I do not have any blog posts. Stay tuned for updates!
 
----
+## Connect with Me
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn](#) *(https://linkedin.com/in/raghad-almanqour / )*  
-- 📊 [Kaggle](#) *(https://www.kaggle.com/raghadalmangor)*  
-- 📧 Email: *(raghadalmangor@gmail.com)*  
-
----
-
-✨ *“Data + AI = Impact.”*  
+{"linkedin":"https://linkedin.com/in/raghad-almanqour"}
