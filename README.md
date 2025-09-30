@@ -43,7 +43,6 @@ Here are some of my latest GitHub activities:
 - **Pushed** changes to [story_time_final](https://github.com/raghadAmangour/Story_time_final)
 
 
-
 ## Connect with Me
 
 {"linkedin":"https://linkedin.com/in/raghad-almanqour"}
