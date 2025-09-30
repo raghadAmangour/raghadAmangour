@@ -42,9 +42,7 @@ Here are some of my latest GitHub activities:
 - **Opened** issues on [Accident-Severity-Prediction-](https://github.com/raghadAmangour/Accident-Severity-Prediction-)  
 - **Pushed** changes to [story_time_final](https://github.com/raghadAmangour/Story_time_final)
 
-## Latest Blog Posts
 
-Currently, I do not have any blog posts. Stay tuned for updates!
 
 ## Connect with Me
 
