@@ -46,3 +46,5 @@ Here are some of my latest GitHub activities:
 ## Connect with Me
 
 {"linkedin":"https://linkedin.com/in/raghad-almanqour"}
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)]([https://www.kaggle.com/yourusername](https://www.kaggle.com/raghadalmangor))
+
