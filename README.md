@@ -15,7 +15,7 @@ Here are the roles and responsibilities I've undertaken throughout my career:
 
 ### Virtual Data Analyst Intern
 * **STC (Via Misk Foundation)** | August 2023
-* **Analyzed 20K+ TV records, built a SARIMA model to forecast watch hours, developed a KNN recommender, and presented insights via data storytelling.
+    *Analyzed 20K+ TV records, built a SARIMA model to forecast watch hours, developed a KNN recommender, and presented insights via data storytelling.
 
 ### Information Technology Intern
 * **King Fahad Medical City**| Mar 2024 – May 2024
