@@ -9,16 +9,16 @@ Computer Science graduate based in Riyadh, Saudi Arabia, with strong expertise i
 
 Here are the roles and responsibilities I've undertaken throughout my career:
 
-###Generative AI - Trainee
- * **WeCloudData - Saudi Digital Academy | Aug 2025 – Present
+### Generative AI - Trainee
+ * **WeCloudData - Saudi Digital Academy** | Aug 2025 – Present
     *520-hour project-based internship focused on developing AI models using Google Colab, Azure GPU, and OpenAI APIs.
 
-###Virtual Data Analyst Intern
-* **STC (Via Misk Foundation) | August 2023
+### Virtual Data Analyst Intern
+* **STC (Via Misk Foundation)** | August 2023
 * **Analyzed 20K+ TV records, built a SARIMA model to forecast watch hours, developed a KNN recommender, and presented insights via data storytelling.
 
-###Information Technology Intern
-* **King Fahad Medical City| Mar 2024 – May 2024
+### Information Technology Intern
+* **King Fahad Medical City**| Mar 2024 – May 2024
    *Completed 280-hours of IT Management training. 
    *Developed a website using ASP.NET and SQL Server.
    *Gained a 100% Success rate from the Supervisor.
