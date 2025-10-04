@@ -102,7 +102,6 @@ Tools for collaborative development, code management, and continuous integration
         <img src="https://api.vaunt.dev/v1/github/entities/raghadAmangour/contributions?format=svg" width="350" title="Includes public contributions"/>
     </a>
 </p>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
