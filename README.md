@@ -7,8 +7,30 @@ Computer Science graduate based in Riyadh, Saudi Arabia, with strong expertise i
 
 ## Professional Experience
 
+Here are the roles and responsibilities I've undertaken throughout my career:
 
+###Generative AI - Trainee
+ * **WeCloudData - Saudi Digital Academy | Aug 2025 – Present
+    *520-hour project-based internship focused on developing AI models using Google Colab, Azure GPU, and OpenAI APIs.
 
+###Virtual Data Analyst Intern
+* **STC (Via Misk Foundation) | August 2023
+* **Analyzed 20K+ TV records, built a SARIMA model to forecast watch hours, developed a KNN recommender, and presented insights via data storytelling.
+
+###Information Technology Intern
+* **King Fahad Medical City| Mar 2024 – May 2024
+   *Completed 280-hours of IT Management training. 
+   *Developed a website using ASP.NET and SQL Server.
+   *Gained a 100% Success rate from the Supervisor.
+
+- 📫 How to reach me **raghadalmangor@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Cf99mO-52JWtBblq3V6CvhgrSigeKd17/view?usp=sharing)
+
+ ## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/raghad-almanqour)
+ [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)]([https://www.kaggle.com/yourusername](https://www.kaggle.com/raghadalmangor))
+
+ 
 ## Skills & Technologies
 
 r,docker,flask,pytorch,html,css,mysql,git,github,react,visualstudio,vscode,angular
@@ -46,8 +68,5 @@ Here are some of my latest GitHub activities:
 - **Pushed** changes to [story_time_final](https://github.com/raghadAmangour/Story_time_final)
 
 
-## Connect with Me
 
-{"linkedin":"https://linkedin.com/in/raghad-almanqour"}
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)]([https://www.kaggle.com/yourusername](https://www.kaggle.com/raghadalmangor))
 
