@@ -92,6 +92,12 @@ Tools for collaborative development, code management, and continuous integration
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghadAmangour&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadAmangour&layout=compact&theme=radical)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raghadAmangour&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raghadAmangour&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadAmangour&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ## Recent Activity
 
 Here are some of my latest GitHub activities:  
