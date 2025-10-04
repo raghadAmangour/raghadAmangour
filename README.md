@@ -31,9 +31,15 @@ Here are the roles and responsibilities I've undertaken throughout my career:
  [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)]([https://www.kaggle.com/yourusername](https://www.kaggle.com/raghadalmangor))
 
  
-## Skills & Technologies
+# Skills & Technologies
 
-r,docker,flask,pytorch,html,css,mysql,git,github,react,visualstudio,vscode,angular
+This repository showcases a wide range of technologies and tools that I frequently use in my projects to build robust and scalable solutions.
+
+---
+## 🚀 Frontend Development
+Here are the technologies I use for building user interfaces and client-side applications:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+
 
 ## Top Projects
 
