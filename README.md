@@ -97,6 +97,11 @@ Tools for collaborative development, code management, and continuous integration
 ![](https://github-profile-trophy.vercel.app/?username=raghadAmangour&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/raghadAmangour/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p>
 
 
 
