@@ -41,22 +41,49 @@ Here are the technologies I use for building user interfaces and client-side app
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
+## ⚙️ Backend Development
 
-## Top Projects
+Technologies used for server-side logic, APIs, and business processes:
 
-- [**raghadAmangour**](https://github.com/raghadAmangour/raghadAmangour): A portfolio showcasing my work in data science and generative AI.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
+## ☁️ Cloud & Deployment
 
-- [**Protofloio**](https://github.com/raghadAmangour/Protofloio): A protofolio project demonstrating my skills and projects.
+Platforms and tools for deploying and hosting applications:
 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-- [**Power-BI-Project**](https://github.com/raghadAmangour/Power-BI-Project): A project focused on data visualization using Power BI.
- 
+### 🗄️ **Databases**
 
-- [**Accident-Severity-Prediction-**](https://github.com/raghadAmangour/Accident-Severity-Prediction-): A project aimed at predicting accident severity using machine learning.
+Databases and data storage solutions I work with:
 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge\&logo=firebase\&logoColor=ffcd34)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-%234F5B93.svg?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
 
-- [**Story_time_final**](https://github.com/raghadAmangour/Story_time_final): A creative storytelling project using JavaScript.
+### 🤖 **AI & Automation**
+
+Frameworks, platforms, and key concepts I work with in AI, machine learning, and workflow automation:
+
+#### **Frameworks & Platforms**:
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge\&logo=langchain\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-222222?style=for-the-badge\&logo=n8n\&logoColor=white)
+
+#### **AI & Machine Learning Concepts**:
+
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23000.svg?style=for-the-badge\&logo=robot\&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23ff8c00.svg?style=for-the-badge\&logo=brain\&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning)
+[![NLP](https://img.shields.io/badge/NLP-%23007acc.svg?style=for-the-badge\&logo=language\&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23f1c40f.svg?style=for-the-badge\&logo=eye\&logoColor=white)](https://en.wikipedia.org/wiki/Computer_vision)
+[![Generative AI](https://img.shields.io/badge/Generative%20AI-%230d94fa.svg?style=for-the-badge\&logo=creative%20commons\&logoColor=white)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+[![LLMs](https://img.shields.io/badge/LLMs-%230d94fa.svg?style=for-the-badge\&logo=language\&logoColor=white)](https://en.wikipedia.org/wiki/Large_language_model)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23f5a623.svg?style=for-the-badge\&logo=command-line\&logoColor=white)](https://en.wikipedia.org/wiki/Prompt_engineering)
+
+## 🤝 Version Control 
+
+Tools for collaborative development, code management, and continuous integration/delivery:
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 
 
 ## GitHub Stats
