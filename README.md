@@ -1,10 +1,13 @@
-## Hi there! 👋
-
-I'm **Raghad Almangour**, a recent computer science graduate passionate about **data science** and **artificial intelligence**. I love exploring new technologies and applying my skills to solve real-world problems.
+<h1 align="center">Hi 👋, I'm Raghad Almangour</h1>
+<h3 align="center">Generative AI Trainee @SDA (in collaboration with WeCloudData) · CS Graduate · 🤖 Passionate about Data Science & Generative AI </h3>
 
 ## About Me
 
-Based in **Riyadh, Kingdom of Saudi Arabia**, I have a strong foundation in computer science and hands-on experience through various projects. I'm eager to contribute to innovative solutions in the tech industry.
+Computer Science graduate based in Riyadh, Saudi Arabia, with strong expertise in Data Science, Machine Learning, and Generative AI. Proficient in Python, SQL, Deep Learning, and Predictive Modeling. Experienced in developing Generative AI models, conducting advanced data analysis, and creating scalable web applications. Passionate about leveraging data-driven insights to solve complex real-world problems. Actively contributing to AI and data science projects that drive innovation and impact.
+
+## Professional Experience
+
+
 
 ## Skills & Technologies
 
