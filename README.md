@@ -86,26 +86,17 @@ Tools for collaborative development, code management, and continuous integration
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 
 
-## GitHub Stats
-
-🏆 **Public Repositories**: 16  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghadAmangour&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadAmangour&layout=compact&theme=radical)
-
 # 📊 GitHub Stats:
+🏆 **Public Repositories**: 16  
 ![](https://github-readme-stats.vercel.app/api?username=raghadAmangour&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raghadAmangour&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadAmangour&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## Recent Activity
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=raghadAmangour&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Here are some of my latest GitHub activities:  
-- **Created** [Story_time](https://github.com/raghadAmangour/Story_time)  
-- **Updated** [Power-BI-Project](https://github.com/raghadAmangour/Power-BI-Project)  
-- **Created** [Protofloio](https://github.com/raghadAmangour/Protofloio)  
-- **Opened** issues on [Accident-Severity-Prediction-](https://github.com/raghadAmangour/Accident-Severity-Prediction-)  
-- **Pushed** changes to [story_time_final](https://github.com/raghadAmangour/Story_time_final)
+
 
 
 
