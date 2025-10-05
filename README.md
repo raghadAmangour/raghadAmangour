@@ -28,7 +28,7 @@ Here are the roles and responsibilities I've undertaken throughout my career:
 
  ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/raghad-almanqour)
- [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)]((https://www.kaggle.com/raghadalmangor))
+ [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](([https://www.kaggle.com/raghadalmangor](https://www.kaggle.com/raghadalmangor)))
 
  
 # Skills & Technologies
