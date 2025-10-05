@@ -25,7 +25,7 @@ Here are the roles and responsibilities I've undertaken throughout my career:
    - Gained a 100% Success rate from the Supervisor.
 
 - 📫 How to reach me **raghadalmangor@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Cf99mO-52JWtBblq3V6CvhgrSigeKd17/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tly0CB9sM8_OrwhQnniAwbs4nplU1tRt/view?usp=sharing)
 
  ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/raghad-almanqour)
