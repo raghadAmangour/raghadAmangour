@@ -11,6 +11,7 @@ Here are the roles and responsibilities I've undertaken throughout my career:
 
 ### Generative AI - Trainee
  * **WeCloudData - Saudi Digital Academy** | Aug 2025 – Present
+   
     *520-hour project-based internship focused on developing AI models using Google Colab, Azure GPU, and OpenAI APIs.
 
 ### Virtual Data Analyst Intern
