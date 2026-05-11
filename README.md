@@ -36,7 +36,7 @@ Achieved 79% validation accuracy through feature engineering and neural network 
 
 
 - 📫 How to reach me **raghadalmangor@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tly0CB9sM8_OrwhQnniAwbs4nplU1tRt/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1tly0CB9sM8_OrwhQnniAwbs4nplU1tRt/view?usp=sharing](https://drive.google.com/drive/folders/1UhlLmgBZQOpLdDxxyR-M4O4fIZA3YqsH?usp=sharing))
 
  ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/raghad-almanqour)
