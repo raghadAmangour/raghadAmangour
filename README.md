@@ -9,20 +9,31 @@ Computer Science graduate based in Riyadh, Saudi Arabia, with strong expertise i
 
 Here are the roles and responsibilities I've undertaken throughout my career:
 
-### Generative AI - Trainee
- * **WeCloudData - Saudi Digital Academy** | Aug 2025 – Present
-   
-   - 520-hour project-based internship focused on developing AI models using Google Colab, Azure GPU, and OpenAI APIs.
+### Conversational AI Assistant | Freelance Project 
+ * **Haraj | May 2026 - Present**
+   - Building an intelligent AI assistant that helps users make informed purchasing decisions through personalized recommendations and natural language interaction.
+     
+### Hajj Travel Support AI Assistant | Capstone Project
+ * **WeCloudData - Saudi Digital Academy** | Aug 2025 – Nov 2025
+   - Developed a multilingual AI travel assistant for Hajj pilgrims using Python, OpenAI, and LangGraph.
+   - Built AI agents capable of providing real-time recommendations from 7,000+ verified agencies.
+   - Added multilingual text and voice support to assist pilgrims in their native languages.
+
+### Accident Severity Prediction System | Capstone Project 
+* **AI Fundamentals - IBM** | Jul 2025
+  - Built a deep learning model using TensorFlow and Python to classify accident severity from image data.
+Processed and analyzed 7.7 million US accident records using computer vision techniques.
+Achieved 79% validation accuracy through feature engineering and neural network optimization.
+
+### Information Technology Intern | Co-op Trainee
+* **King Fahad Medical City**| Mar 2024 – May 2024
+  - Completed 280 hours of IT Management training, developing a full-stack website in ASP.NET with SQL Server backend that gained 100% adoption as an internal management tool for university supervisors to access trainee data and track host entities.
 
 ### Virtual Data Analyst Intern
-* **STC (Via Misk Foundation)** | August 2023
-  - Analyzed 20K+ TV records, built a SARIMA model to forecast watch hours, developed a KNN recommender, and presented insights via data storytelling.
+* **STC (Via Misk Foundation)** | Jun 2023 – Aug 2023
+  - Analyzed 1M+ TV records in Python using scikit-learn to build a SARIMA model used to forecast watch hours to develop a KNN recommendation system and presented insights via data storytelling to the executive committee responsible for operations.
 
-### Information Technology Intern
-* **King Fahad Medical City**| Mar 2024 – May 2024
-   - Completed 280-hours of IT Management training. 
-   - Developed a website using ASP.NET and SQL Server.
-   - Gained a 100% Success rate from the Supervisor.
+
 
 - 📫 How to reach me **raghadalmangor@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tly0CB9sM8_OrwhQnniAwbs4nplU1tRt/view?usp=sharing)
