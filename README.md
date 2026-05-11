@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghad Almangour</h1>
-<h3 align="center">Generative AI Trainee @SDA (in collaboration with WeCloudData) · CS Graduate · 🤖 Passionate about Data Science & Generative AI </h3>
+<h3 align="center">Data Scientist | AiE® Certified Artificial Intelligence Engineer | Generative AI, LLMs, RAG, Fine-Tuning | Python | Hugging Face</h3>
 
 ## About Me
 
